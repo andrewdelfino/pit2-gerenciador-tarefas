@@ -110,4 +110,4 @@ Implementada em `tests/test_tarefas.py` com **Pytest**, validando o isolamento d
 | **Mariana Costa** | 13/11/2026 | Alteração de status e filtros. | Data exibida no formato americano/ISO (`AAAA-MM-DD`). | Criada função `_formatar_data_br()` para exibir `DD/MM/AAAA` na View. |
 | **Gabriel Souza** | 13/11/2026 | Edição e persistência no SQLite. | Exclusão imediata ao clicar no botão, sem confirmação. | Adicionado evento `onsubmit="return confirm(...)"` no formulário de exclusão. |
 | **Beatriz Lima** | 14/11/2026 | Mensagens de alerta e navegação. | Textos longos sem espaços vazavam da borda do cartão. | Aplicada classe CSS `.texto-quebra` com `word-break: break-word`. |
-| **Pedro H. Silva** | 15/11/2026 | Fluxo CRUD completo pós-correções. | Nenhum erro encontrado após as melhorias aplicadas. | Versão consolidada para entrega final. |
+| **Pedro Henrique Silva** | 15/11/2026 | Fluxo CRUD completo pós-correções. | Nenhum erro encontrado após as melhorias aplicadas. | Versão consolidada para entrega final. |
